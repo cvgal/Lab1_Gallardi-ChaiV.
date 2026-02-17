@@ -12,7 +12,7 @@ Lab 1
     <h1>Welcome to My Web Page</h1>
 
     <p>
-        Hello! My name is Haru. I am currently studying Information Technology. 
+        Hello! My name is Chai V. Gallardo. I am currently studying Information Technology. 
         I am currently learning about web development, programming, and exploring new technologies.
     </p>
 
