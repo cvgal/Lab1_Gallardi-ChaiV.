@@ -1,5 +1,6 @@
 # Lab1_Gallardi-ChaiV.
 Lab 1
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,7 +13,7 @@ Lab 1
 
     <p>
         Hello! My name is Haru. I am currently studying Information Technology. 
-        I enjoy learning about web development, programming, and exploring new technologies.
+        I am currently learning about web development, programming, and exploring new technologies.
     </p>
 
     <p>
